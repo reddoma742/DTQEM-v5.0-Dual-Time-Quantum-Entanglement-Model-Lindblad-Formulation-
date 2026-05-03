@@ -1,3 +1,9 @@
+
+markdown
+![Berramdane Model Result](images/dtqem_v5.jpg)
+
+
+
 # DTQEM-v5.0-Dual-Time-Quantum-Entanglement-Model-Lindblad-Formulation-
 DTQEM v5.0 models quantum entanglement via a two‑qubit state with variable angle θ, Lindblad‑thermal decoherence from Bose–Einstein statistics, and a magnetic field test. Satisfies Bohr complementarity V²+D²≤1. Interactive Python simulation.
 # DTQEM v5.0 – Dual-Time Quantum Entanglement Model (Lindblad Formulation)
