@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it as below."
+authors:
+  - family-names: "BERRAMDANE"
+    given-names: "Redouane"
+title: "DTQEM v5.0: Dual-Time Quantum Entanglement Model with Lindblad Thermal Decoherence"
+version: 5.0.0
+date-released: 2026-05-03
+url: "https://github.com/reddoma742/DTQEM-v5.0-Dual-Time-Quantum-Entanglement-Model-Lindblad-Formulation-.git"
+keywords:
+  - "Quantum Entanglement"
+  - "Lindblad Master Equation"
+  - "Thermal Decoherence"
+  - "Bose-Einstein Statistics"
+  - "Physics Simulation"
+license: MIT
